@@ -11,12 +11,12 @@
     "type": "git",
     "url": "https://github.com/Yajat047/bee_project/"
   },
-  "author": "Hasan | https://hasan-py.github.io",
+  "author": "Yajat",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Yajat047/bee_project/issues"
   },
-  "homepage": "hhttps://github.com/Yajat047/bee_project/",
+  "homepage": "https://github.com/Yajat047/bee_project/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
